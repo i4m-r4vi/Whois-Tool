@@ -21,3 +21,4 @@ if isregistered(website):
     print("WHOIS server:",whois_info.whois_server)
     print("Domain Creation Date:",whois_info.creation_date)
     print("Domain Expiration Date:",whois_info.expiration_date)
+    print(whois_info)
